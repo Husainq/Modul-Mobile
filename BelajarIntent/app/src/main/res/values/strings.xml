@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BelajarIntent</string>
+    <string name="activity_pertama">Activity Pertama</string>
+    <string name="menuju_activity_kedua">Menuju Activity Kedua</string>
+    <string name="tekan">Klik</string>
+    <string name="activity_kedua">Activity Kedua</string>
+    <string name="kembali">Kembali</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398217090804",
+    "project_id": "belajarfirebase-ffc03",
+    "storage_bucket": "belajarfirebase-ffc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398217090804:android:edae78bf31f8adcf2e70a1",
+        "android_client_info": {
+          "package_name": "com.example.belajarfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzz78lBMDtV8vJyq-LcwZ7z0--36u4G_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

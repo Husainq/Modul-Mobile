@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="open">Open</string>
+    <string name="closen">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="halaman_inbox">Halaman Inbox</string>
+    <string name="halaman_draft">Halaman Draft</string>
+    <string name="halaman_send">Halaman Send</string>
+    <string name="nama_profile">Qalbi Husaini</string>
+    <string name="prodi">Sistem Informasi</string>
+    <string name="inbox">Inbox</string>
+    <string name="draft">Draft</string>
+    <string name="send">Send</string>
+    <string name="halaman_help">Halaman Help</string>
+    <string name="halaman_setting">Halaman Setting</string>
+    <string name="controls">Controls</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+</resources>

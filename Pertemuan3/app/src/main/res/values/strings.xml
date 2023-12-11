@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Qalbi_Pertemuan3</string>
+    <string name="hello">Halo Semua</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="tombol">Login</string>
+    <string name="judul">Halaman Login</string>
+    <string name="text_kalkulator">Kalkulator Balok Sederhana</string>
+    <string name="txt_panjang">Panjang</string>
+    <string name="txt_lebar">Lebar</string>
+    <string name="txt_tinggi">Tinggi</string>
+    <string name="txt_hitung">Hitung</string>
+    <string name="txt_hapus">Hapus</string>
+    <string name="txt_hasil">Hasil Perhitungan</string>
+</resources>

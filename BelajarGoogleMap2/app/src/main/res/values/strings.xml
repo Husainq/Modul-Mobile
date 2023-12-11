@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarGoogleMap2</string>
+    <string name="title_activity_maps">Aplikasi Pencari Lokasi</string>
+    <string name="cari_lokasi">Cari Lokasi</string>
+    <string name="ketik_lokasi">Ketik Lokasi</string>
+
+</resources>
